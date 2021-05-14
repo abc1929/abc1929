@@ -4,7 +4,7 @@ Software Engineer.
 
 - 🔭 I’m currently working on a Springboot backend for a feedback submission application.
 - 🌱 I’m currently learning Golang, infrastructures, distributed systems and blockchain.
-- 💬 Ask me about philosophy or anything
+- 💬 Ask me about anything
 - 📫 How to reach me: @obtl:matrix.org
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
