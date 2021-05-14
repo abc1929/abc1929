@@ -1,6 +1,6 @@
 ### Hi there, Jiawei here.
 
-- 🔭 I’m currently working on a Springboot backend for a feedback sumbitting application.
+- 🔭 I’m currently working on a Springboot backend for a feedback submission application.
 - 🌱 I’m currently learning Golang, infrastructures and distributed systems.
 - 💬 Ask me about anything
 - 📫 How to reach me: obtl@protonmail.com
