@@ -1,7 +1,7 @@
 ### Hi there, Jiawei here.
 
 - 🔭 I’m currently working on a Springboot backend for a feedback submission application.
-- 🌱 I’m currently learning Golang, infrastructures and distributed systems.
+- 🌱 I’m currently learning Golang, infrastructures, distributed systems and blockchain.
 - 💬 Ask me about anything
 - 📫 How to reach me: @obtl:matrix.org
 
