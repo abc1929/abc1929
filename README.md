@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc1929)
-
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc1929&layout=compact)
+ -->
 
