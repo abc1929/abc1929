@@ -15,6 +15,10 @@ Software Engineer.
 ![](https://img.shields.io/badge/Ethereum-A6A9AA?style=for-the-badge&logo=ethereum&logoColor=white)
 ![](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
+
+---
+<a href="https://www.linkedin.com/in/jiawei-wu-900712203/"> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc1929&layout=compact)
  -->
