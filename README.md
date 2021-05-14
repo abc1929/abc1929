@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a Springboot backend for a feedback submission application.
 - 🌱 I’m currently learning Golang, infrastructures and distributed systems.
 - 💬 Ask me about anything
-- 📫 How to reach me: obtl@protonmail.com
+- 📫 How to reach me: @obtl:matrix.org
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
