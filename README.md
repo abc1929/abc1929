@@ -2,8 +2,6 @@
 
 Software Engineer.
 
-- 🔭 I’m currently working on brushing up algorithms and data structures.
-- 🌱 I’m currently learning Golang.
 - 💬 Ask me about anything
 - 📫 How to reach me: @obtl:matrix.org
 
