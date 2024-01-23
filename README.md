@@ -1,6 +1,6 @@
-### Hi there, Jiawei here.
+<!-- ### Nothing to see here -->
 
-Software Engineer.
+<!-- Software Engineer.
 
 - 📫 How to reach me: @obtl:matrix.org
 
@@ -19,7 +19,7 @@ Software Engineer.
 
 
 ---
-<a href="https://www.linkedin.com/in/jiawei-wu-900712203/"> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/jiawei-wu-900712203/"> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a> -->
 
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc1929&layout=compact)
